@@ -1,4 +1,4 @@
-# Mon site portfolio
+# Mon site portfolio (in progress)
 Ce portfolio est un site web qui présente mes projets et mes compétences en tant que développeur. Le site est librement accessible à tous les visiteurs, qui peuvent y accéder à partir de l'URL suivante : https://rakanad.github.io/Mon-Portfolio
 
 ## Projets présentés
