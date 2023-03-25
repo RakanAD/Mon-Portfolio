@@ -2,14 +2,16 @@
 Ce portfolio est un site web qui présente mes projets et mes compétences en tant que développeur. Le site est librement accessible à tous les visiteurs, qui peuvent y accéder à partir de l'URL suivante : https://rakanad.github.io/Mon-Portfolio
 
 ## Projets présentés
- Dans ce portfolio, vous trouverez une sélection de mes projets les plus récents, avec des liens vers les dépôts GitHub correspondants. Les projets couvrent un large éventail de technologies et de langages de programmation, notamment :
+ 
+Dans ce portfolio, vous trouverez une sélection de mes projets les plus récents, avec des liens vers les dépôts GitHub correspondants. Les projets couvrent un large éventail de technologies et de langages de programmation, notamment :
 -
 -
 -
 -
 
 ## Compétences
- Je suis compétent dans plusieurs domaines du développement de logiciels, notamment :
+ 
+Je suis compétent dans plusieurs domaines du développement de logiciels, notamment :
 -
 -
 -
