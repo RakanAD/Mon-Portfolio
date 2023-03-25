@@ -4,15 +4,13 @@ Ce portfolio est un site web qui présente mes projets et mes compétences en ta
 ## Projets présentés
  
 Dans ce portfolio, vous trouverez une sélection de mes projets les plus récents, avec des liens vers les dépôts GitHub correspondants. Les projets couvrent un large éventail de technologies et de langages de programmation, notamment :
-.
-.
+-
 
 
 ## Compétences
  
 Je suis compétent dans plusieurs domaines du développement de logiciels, notamment :
-.
-.
+-
 
 
 ## Contact
