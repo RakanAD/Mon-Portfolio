@@ -1,4 +1,4 @@
-# Mon site portfolio (in progress)
+# Mon site portfolio 
 Ce portfolio est un site web qui présente mes projets et mes compétences en tant que développeur. Le site est librement accessible à tous les visiteurs, qui peuvent y accéder à partir de l'URL suivante : https://rakanad.github.io/Mon-Portfolio
 
 ## Projets présentés
@@ -14,8 +14,8 @@ Je suis compétent dans plusieurs domaines du développement, dont :
 
 - La réalité augmenté
 - Le jeu vidéo
-- Web
-- Mobile
+- Le développement Web
+- Le développement Mobile
 
 ## Contact
 Si vous souhaitez avoir plus d'informations, n'hésitez pas à me contacter via mon adresse e-mail : roland.zhang.pro@gmail.com
