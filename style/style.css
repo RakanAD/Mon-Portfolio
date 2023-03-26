@@ -290,7 +290,7 @@ section {
   background-color: var(--color-grey-4);
   margin-left: 1rem;
   position: relative;
-  /* ajouter la progress bar ici */
+  /* ajouter une progress bar ici */
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress span {
   position: absolute;
