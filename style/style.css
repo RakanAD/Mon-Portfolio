@@ -77,12 +77,6 @@ section {
   background-color: var(--color-primary);
 }
 
-.sec4 {
-  display: none;
-  transform: translateY(0) scale(1);
-  background-color: var(--color-primary);
-}
-
 .sec5 {
   display: none;
   transform: translateY(0) scale(1);
@@ -549,5 +543,5 @@ section {
   z-index: -1;
   transform: translate(-50%, -50%);
   font-weight: 500;
-  font-size: 6rem;
+  font-size: 5.7rem;
 }/*# sourceMappingURL=style.css.map */
