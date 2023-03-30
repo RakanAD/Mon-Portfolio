@@ -761,7 +761,7 @@ section {
     display: none;
   }
   .right-header {
-    padding: 2rem;
+    padding: 0rem;
     grid-row: 1;
     width: 120%;
     margin: 2 auto;
