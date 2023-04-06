@@ -346,16 +346,16 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 80%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .csharp {
-  width: 80%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 70%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
-  width: 70%;
+  width: 50%;
 }
 
 .stat-title {
